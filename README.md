@@ -1,4 +1,4 @@
-## I'm Brandon, and I like watermelon. I typed this at 4:05pm. 
+## I'm Brandon. Watermelon is awesome. 
 
 ## Welcome to GitHub Pages
 
