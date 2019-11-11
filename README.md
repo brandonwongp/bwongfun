@@ -1,3 +1,5 @@
+## I'm Brandon, and I like watermelon. I typed this at 4:05pm. 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/brandonwongp/bwongfun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
